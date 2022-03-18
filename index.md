@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+Women are the future, so let us celebrate the strong, independent and wonderful ladies in our life.Happy Women's Day to all the amazing ladies who refused to be erased or made invisible. Keep shining on!The Key to supporting your fitness journey isn’t just protein but a combination of proteins, fibre, vitamins and minerals. Presenting Body  Key by Nutrilite. A nutritious delicious shake  mix which is packed with nutritional  goodness and helps with weight  management while working as a one-meal replacement, providing the same satiety. Click here to know more- https://www.amway.in/bodykey-nutritious-delicious-shake-mix/p/119809IDLogo ko hak jamana aata hain rista nibhana nahin.!! #logokohaqjatanaaatahai Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website or other websites.
+Google's use of advertising cookies enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+Users may opt out of personalized advertising by visiting Ads Settings. (Alternatively, you can direct users to opt out of a third-party vendor's use of cookies for personalized advertising by visiting www.aboutads.info.)
+If you have not opted out of third-party ad serving, the cookies of other third-party vendors or ad networks may also be used to serve ads on your site, which should also be disclosed in your privacy policy in the following manner:
 
-You can use the [editor on GitHub](https://github.com/nikulsolanki/niksk01.github.-io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Notify your site visitors of the third-party vendors and ad networks serving ads on your site.
+Provide links to the appropriate vendor and ad network websites.
+Inform your users that they may visit those websites to opt out of the use of cookies for personalized advertising (if the vendor or ad network offers this capability). Alternatively, you can direct users to opt out of some third-party vendors’ uses of cookies for personalized advertising by visiting www.aboutads.info.
+Because publisher sites and laws across countries vary, we're unable to suggest specific privacy policy language. However, you may wish to review resources such as the Network Advertising Initiative for guidance on drafting a privacy policy. For additional details regarding cookie consent notices, please refer to cookiechoices.org.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Huzoor Palace : This palace with beautiful spread of green lawns, flower gardens and fruiting trees is called the Orchard Palace. Only one room which houses miniature paintings, brass, and antique furniture is open to the public as the other part of the palace is occupied by the blood relatives of the royal family. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Naulakha Palace :  The 17th century Navlakha palace with delicate designs and beautifully decorated staircases exhibits its great architectural excellence in style. The interior of Dabargarh palace alias Navlakha palace is open to the public which showcases the true royal culture and is a very good example for the artistic talents of the then generation. Expensive chandeliers, antique furniture, mirrors and stuffed lions and tigers adorn the court house. 
 
-```markdown
-Syntax highlighted code block
+Riverside Palace : River Side Palace was constructed in the year 1875. This royal beauty is now converted into a star hotel. The palace is beautifully decorated by all antique and expensive imported articals. This is a must visit place. 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nikulsolanki/niksk01.github.-io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+The Royal Garages : This garage consists of the collection of the royal cars. Gondal was once one of the eight princely states of Kathiawar before Indian Independence. The rulers here had a fascination for cars for which Gondal had the best-planned road system in Gujarat at that time. In 1643 AD, Gondal was founded by Thakore Shri Kumbhoji I Meramanji and then came into prominence during the time of Sir Bhagvat Singhji, who ruled Gondal till Independence. The Riverside Palace, which was built by him for his son YuvrajIt is located at 140 m above sea level and has three platforms. As of 2016, an electrified double broad gauge railway line exists and at this station, 27 trains stop. Rajkot Airport, is at distance of 39 kilometers.[1][2][3]
